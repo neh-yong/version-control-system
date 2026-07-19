@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Sandesh Neyong Limbu",
+  "license": "ISC",
+  "description": "A MERN based Github replica with custom version control implemented from scratch.",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
